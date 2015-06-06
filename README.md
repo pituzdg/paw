@@ -29,7 +29,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 7. Web service JSON-RPC
 
 ## IV Frameworki aplikacji webowych
-1. AngularJS [Chruściel][Szurgot+Słota]
+1. AngularJS [Chruściel][Szurgot+Słota][Firek]
 2. Polymer [Wrzalik]
 3. Ionic [Leśniak+Adamiec]
 4. ASP.NET MVC [Bałchanowski]
