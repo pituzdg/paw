@@ -45,7 +45,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 13. Laravel [Prus+Chlebuś][Kornafel+Sieńko+Szuba]
 
 ## V Inne
-1. Chrome extensions [Białas][Garus+Nawias]
+1. Chrome extensions [Białas][Garus+Nawias][Dudek+Bielec]
 2. Firefox add-ons [Zacharski]
 3. Grunt + Bower + Browserify [Frelas + Ziomek]
 4. Jasmine (http://jasmine.github.io/) + Karma (http://karma-runner.github.io/)
